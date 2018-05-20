@@ -1,0 +1,65 @@
+{
+    "border": "pixel",
+    "current_border_width": 4,
+    "floating": "user_off",
+    "geometry": {
+       "height": 1033,
+       "width": 622,
+       "x": 1029,
+       "y": 10
+    },
+    "name": "Capas - Pinceles",
+    "percent": 0.13525641025641,
+    "swallows": [
+       {
+       "class": "Gimp",
+       "instance": "gimp",
+       "window_role": "gimp-dock"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "pixel",
+    "current_border_width": 4,
+    "floating": "user_off",
+    "geometry": {
+       "height": 1033,
+       "width": 1513,
+       "x": 10,
+       "y": 10
+    },
+    "name": "Programa de manipulación de imágenes de GNU",
+    "percent": 0.733333333333334,
+    "swallows": [
+       {
+       "class": "Gimp",
+       "instance": "gimp"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "pixel",
+    "current_border_width": 4,
+    "floating": "user_off",
+    "geometry": {
+       "height": 1033,
+       "width": 361,
+       "x": 1541,
+       "y": 10
+    },
+    "name": "Caja de herramientas",
+    "percent": 0.131410256410256,
+    "swallows": [
+       {
+       "class": "Gimp",
+       "instance": "gimp",
+       "window_role": "gimp-toolbox"
+       }
+    ],
+    "type": "con"
+}
+

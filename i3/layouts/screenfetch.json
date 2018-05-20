@@ -1,0 +1,74 @@
+{
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splith",
+    "percent": null,
+    "rect": {
+       "height": 143,
+       "width": 808,
+       "x": 556,
+       "y": 696
+    },
+    "type": "floating_con",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 4,
+            "floating": "user_on",
+            "geometry": {
+               "height": 400,
+               "width": 800,
+               "x": 0,
+               "y": 0
+            },
+            "name": "adrian@HAL-2000:~",
+            "percent": 1,
+            "swallows": [
+               {
+                    "class": "Termite",
+                    "instance": "termite",
+					"title": "termite"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splith",
+    "percent": null,
+    "rect": {
+       "height": 438,
+       "width": 843,
+       "x": 536,
+       "y": 136
+    },
+    "type": "floating_con",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 4,
+            "floating": "user_on",
+            "geometry": {
+               "height": 400,
+               "width": 800,
+               "x": 0,
+               "y": 0
+            },
+            "name": "adrian@HAL-2000:~",
+            "percent": 1,
+            "swallows": [
+               {
+                "class": "Termite",
+                "instance": "termite",
+				"title":"termite"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
